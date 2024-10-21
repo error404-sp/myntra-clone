@@ -1,4 +1,4 @@
-# GoComet Assignment
+# Myntra clone
 
 ## Features added
 
